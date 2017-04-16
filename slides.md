@@ -1,2 +1,2 @@
 # Example slide
-![sue445](images/sue445.png)
+![github_unicorn](images/github_unicorn.png)

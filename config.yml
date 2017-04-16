@@ -6,7 +6,7 @@ meta_properties:
   og:title: "Example slide"
   og:description: "Example slide"
   og:url: "https://sue445.github.io/reveal-ck-example/#/"
-  og:image: "https://sue445.github.io/reveal-ck-example/images/sue445.png"
+  og:image: "https://sue445.github.io/reveal-ck-example/images/github_unicorn.png"
 
 meta_names:
   twitter:card: "summary"
@@ -14,4 +14,4 @@ meta_names:
   twitter:creator: "@sue445"
   twitter:title: "Example slide"
   twitter:description: "Example slide"
-  twitter:image: "https://sue445.github.io/reveal-ck-example/images/sue445.png"
+  twitter:image: "https://sue445.github.io/reveal-ck-example/images/github_unicorn.png"
